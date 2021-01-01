@@ -1,0 +1,149 @@
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form1.resources
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Properties.Resources.resources
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.dll
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.dll
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.xml
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.xml
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\mkh\source\repos\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CopyComplete
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.dll
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.dll
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.xml
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.xml
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form1.resources
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Properties.Resources.resources
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CopyComplete
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\source\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.pdb
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csprojAssemblyReference.cache
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form1.resources
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Properties.Resources.resources
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.GenerateResource.cache
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CoreCompileInputs.cache
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.exe
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.pdb
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.pdb
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.dll
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.dll
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.dll
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.xml
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.xml
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.xml
+D:\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CopyComplete
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.dll
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.dll
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.xml
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.xml
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form1.resources
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Properties.Resources.resources
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CopyComplete
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Tez\Tez Kodlama\v1.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\openalpr-net.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form1.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form2.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Properties.Resources.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CopyComplete
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v1.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form1.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form2.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Properties.Resources.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CopyComplete
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.0\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form1.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form2.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Properties.Resources.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CopyComplete
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.1\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.exe.config
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.dll
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Form1.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.Properties.Resources.resources
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csproj.CopyComplete
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.exe
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.pdb
+C:\Users\mkh\Desktop\Tez Raporlar\Tez\Tez Kodlama\v2.2\Arduino_HCSR04_Uygulamasi\Arduino_HCSR04_Uygulamasi\obj\Debug\Arduino_HCSR04_Uygulamasi.csprojAssemblyReference.cache
